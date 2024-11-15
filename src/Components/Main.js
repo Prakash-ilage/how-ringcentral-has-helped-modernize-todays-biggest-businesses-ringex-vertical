@@ -65,7 +65,7 @@ function Main() {
       <div className="mx-auto grid max-w-screen-xl p-4 lg:grid-cols-12 lg:gap-8 lg:py-8 xl:gap-0">
         <div className="place-self-auto mx-auto lg:col-span-8">
 
-          <p className="my-4 max-w-2xl font-normal text-gray-800 md:text-md lg:text-md">This comprehensive eBook showcases real-world case studies and success stories, illustrating how RingCentral’s unified communications solutions have enhanced productivity, streamlined operations, and driven growth.</p>
+          <p className="my-4 max-w-2xl font-normal text-gray-800 md:text-md lg:text-md">AAA This comprehensive eBook showcases real-world case studies and success stories, illustrating how RingCentral’s unified communications solutions have enhanced productivity, streamlined operations, and driven growth.</p>
           <p className="my-4 max-w-2xl font-normal text-gray-800 md:text-md lg:text-md">By reading this eBook, you’ll gain valuable insights into:</p>
 
           <ul className="my-4 pl-6 list-disc max-w-2xl font-normal text-gray-800 md:text-md lg:text-md">
