@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/static/css/main.2e94c5aa.css",
+    "main.js": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/static/js/main.510978bd.js",
+    "static/media/bcd4472b-ringcentral-modernized-biggest-businesses-images-0_10jg0pwebp": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/static/media/bcd4472b-ringcentral-modernized-biggest-businesses-images-0_10jg0p6000000000000000.95091fbdcd398503c20d.webp",
+    "static/media/885ba304-ringcentral-logo-1_10go02i000000000000000.webp": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/static/media/885ba304-ringcentral-logo-1_10go02i000000000000000.f4c2baa25d753f06a5c4.webp",
+    "index.html": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/index.html",
+    "main.2e94c5aa.css.map": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/static/css/main.2e94c5aa.css.map",
+    "main.510978bd.js.map": "/Lead/how-ringcentral-has-helped-modernize-todays-biggest-businesses-ringex-vertical/static/js/main.510978bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e94c5aa.css",
+    "static/js/main.510978bd.js"
+  ]
+}
